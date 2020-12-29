@@ -21,8 +21,10 @@ Usage:
 		
 			to deploy your desired service to Azure
       
-render command will render all the required resources to deliver the NGINX container into the cloud.
+	render command
+		will render all the required resources to deliver the NGINX container into the cloud.
 
-deploy command invokes the code that goes and deploys all the previously prepared configurations.
+	deploy command
+		invokes the code that goes and deploys all the previously prepared configurations.
 
 After ​slingshot deploy​ there should exist a URL that is publicly accessible with the configured image answering to HTTP requests in the configured port.
