@@ -4,9 +4,11 @@ The program allows its users to model docker-container deployments in a (very si
 The program renders the dynamic code into Terraform HCL configurations on disk. 
 The program able to deploy these configurations into an Azure account with minimal user intervention.
 
-Usage: 
+Usage:
+
 	Input directory: ./input,
 	Output directory: ./output
+	
 	put the service file in the input directory to be rendered to Terraform configuration
 	
 	prepare credentials file to be used for Azure connect in ./credentials directory or use ENV variables
