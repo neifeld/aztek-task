@@ -1,0 +1,1 @@
+java -Dfile.encoding=UTF-8 -classpath "E:\eclipse-workspace\task\target\classes;E:\repo\commons-io\commons-io\2.6\commons-io-2.6.jar;E:\repo\com\microsoft\terraform\terraform-client\1.0.0\terraform-client-1.0.0.jar;" aztek.task.App %1
