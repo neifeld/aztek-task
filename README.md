@@ -7,7 +7,7 @@ The program able to deploy these configurations into an Azure account with minim
 Usage: 
 	Input directory: ./input,
 	Output directory: ./output
-	put the service file in the input directory to be rendered to Terraform configuration 
+	put the service file in the input directory to be rendered to Terraform configuration
 	prepare credentials file to be used for Azure connect in ./credentials directory or use ENV variables
 		-use render command
 			to prepare Terraform configuration file(s) accordig to your service file
