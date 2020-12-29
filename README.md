@@ -1,4 +1,4 @@
-# aztec-task
+# aztek-task
 
 The program allows its users to model docker-container deployments in a (very simplistic) dynamic-code fashion. 
 The program renders the dynamic code into Terraform HCL configurations on disk. 
